@@ -7,6 +7,8 @@ public class ChangeCounter extends JFrame {
     private JTextField inputField;
     private JTextArea resultArea;
     private JButton calculateButton;
+    private tite;
+    private miguel ivan;
 
     public ChangeCounter() {
         setTitle("XYZ Supermarket");
